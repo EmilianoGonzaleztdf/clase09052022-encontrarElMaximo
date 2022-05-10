@@ -1,2 +1,2 @@
-# clase09052022-encontrarElMaximo
+# clase09052022-encontrarNumeroMaximo
 Created with CodeSandbox
